@@ -20,7 +20,7 @@
 
 ### 1. 获取 API Key
 
-前往 [小米 MiMo 开发者平台](https://api.xiaomimimo.com) 注册并获取 API Key。
+前往 [小米 MiMo 开发者平台](https://platform.xiaomimimo.com/#/console/api-keys) 注册并获取 API Key。
 
 ### 2. 打开工具
 
